@@ -1,0 +1,18 @@
+{
+    "name": "krammer/ball",
+    "description": "Nachübung php",
+    "type": "libary",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Florian Krammer",
+            "email": "flokra13@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "krammer\\ball\\": "src/"
+        }
+    }
+}
